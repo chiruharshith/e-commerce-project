@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+footer>.ftr-top{
+    background-color:#fafafa;
+    display:inline-block;
+    width:100%
+}
+footer>.ftr-top{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+footer>.ftr-top ul{
+    margin:0 auto;
+    padding:10px 0;
+    background-color:#fafafa
+}
+footer>.ftr-top li{
+    display:inline-block;
+    width:33%;
+    text-align:center
+}
+footer>.ftr-top li>span{
+    margin-bottom:10px;
+    width:100%
+}
